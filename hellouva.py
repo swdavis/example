@@ -1,1 +1,1 @@
-print("Hellow UVa!")
+print("Hello UVA!")
